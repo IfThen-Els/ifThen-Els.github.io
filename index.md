@@ -13,3 +13,7 @@ Nulla consequat massa quis enim.
 * vierde item van ongeordende lijst
 * vijfde item van ongeordende lijst
 * zesde item van ongeordende lijst
+
+Dit is een Blockquote:
+> Lorem ipsum dolor sit amet
+> consectetuer adipiscing elit
